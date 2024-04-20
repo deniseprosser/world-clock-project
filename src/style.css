@@ -1,12 +1,12 @@
 body {
-  background: #dfebed;
+  background: #e7eaf6;
   font-family: "Roboto", sans-serif;
-  color: #e3e3e3;
+  color: #e7eaf6;
 }
 
 h1 {
   text-align: center;
-  border-bottom: 1px dashed #dfebed;
+  border-bottom: 1px dashed #e7eaf6;
   padding: 0 0 10px;
   font-size: 38px;
   margin: 12px 0 26px;
@@ -24,7 +24,7 @@ h2 {
 }
 
 .container {
-  background: #497285;
+  background: #113f67;
   max-width: 600px;
   border-radius: 8px;
   margin: 60px auto 40px;
@@ -35,7 +35,7 @@ h2 {
 .city {
   display: flex;
   justify-content: space-between;
-  border-bottom: 1px dashed #dfebed;
+  border-bottom: 1px dashed #e7eaf6;
   padding: 0 0 20px;
   margin: 10px 0;
 }
@@ -45,7 +45,7 @@ h2 {
 }
 
 .date {
-  color: #f2995e;
+  color: #babfe0;
   font-size: 18px;
 }
 
@@ -63,6 +63,6 @@ a {
 }
 
 footer {
-  color: #497285;
+  color: #38598b;
   text-align: center;
 }
